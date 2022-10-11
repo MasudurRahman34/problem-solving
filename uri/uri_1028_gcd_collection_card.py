@@ -1,5 +1,5 @@
 
-t= int(input())
+t = int(input())
 for i in range(t):
     def computeGCD(a, b):
         if a % b == 0:
